@@ -1,5 +1,5 @@
 
-body {
+body, ol, ul, div {
     /* CSS HEX */
 --cultured: #f8f9faff;
 --cultured-2: #e9ecefff;
@@ -37,6 +37,7 @@ body {
     font-family: 'Peddana', serif;
     background-color: lightgray;
 }
+
 
 p {
     font-size: 22px;
@@ -98,6 +99,10 @@ footer {
 
 .quiz-button {
     align-content: center;
+}
+
+.lists {
+    font-size: 22px;
 }
 .gutter-right {
     margin-right: 20px;
